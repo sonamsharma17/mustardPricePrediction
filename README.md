@@ -34,7 +34,7 @@ Ultimately, this work is about turning "raw noise" into a strategic advantage, h
 [Download Research Paper](research%20paper.pdf)
 
 ## 📓 Jupyter Notebook
-[Open Notebook](mustard-price-prediction%20(3).ipynb)
+[Open Notebook](mustard-price-pridiction%20(3).ipynb)
 
 ## 🧠 Source Code
 [View Python Code](CodeandLogic.py)
