@@ -30,4 +30,14 @@ Ultimately, this work is about turning "raw noise" into a strategic advantage, h
 
 <img width="701" height="283" alt="Screenshot 2026-02-17 102027" src="https://github.com/user-attachments/assets/7e46c59f-190d-40da-bdce-0172e8d13c3c" />
 
+## 📄 Research Paper
+[Download Research Paper](research%20paper.pdf)
+
+## 📓 Jupyter Notebook
+[Open Notebook](mustard-price-prediction%20(3).ipynb)
+
+## 🧠 Source Code
+[View Python Code](CodeandLogic.py)
+
+
 
