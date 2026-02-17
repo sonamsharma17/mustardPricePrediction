@@ -17,3 +17,6 @@ The Architecture: It’s built to be modular. Whether the data is structured (li
 I designed this with practical, high-stakes applications in mind. Whether it’s predicting agricultural price swings, analyzing market-moving news, or automating financial forecasts, the goal is to provide a system that offers more than just predictions—it offers actionable intelligence.
 
 Ultimately, this work is about turning "raw noise" into a strategic advantage, helping users make faster, smarter decisions in complex environments.
+
+<img width="1123" height="681" alt="image" src="https://github.com/user-attachments/assets/269ae808-9d26-4767-8643-862756997302" />
+
